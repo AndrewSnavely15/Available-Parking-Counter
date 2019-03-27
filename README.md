@@ -6,10 +6,10 @@ Display of spaces are resisted to under a 100 spaces because how the code is cre
 
 # Outputs
 First screenshot shows what the terminal shows for spaces: <br/>
-<img width="661" alt="parking spots output" src="https://user-images.githubusercontent.com/32400601/55047517-5227af80-5002-11e9-85ba-ef299412a7f3.PNG"> <br/> <br/>
+<img width="461" alt="parking spots output" src="https://user-images.githubusercontent.com/32400601/55047517-5227af80-5002-11e9-85ba-ef299412a7f3.PNG"> <br/> <br/>
 
 
 This is displayed at the end of the terminal showing how many spaces are left: <br/>
-<img width="180" alt="spaces left output" src="https://user-images.githubusercontent.com/32400601/55047524-58b62700-5002-11e9-944d-02ed5f67da5b.PNG">
+<img width="480" alt="spaces left output" src="https://user-images.githubusercontent.com/32400601/55047524-58b62700-5002-11e9-944d-02ed5f67da5b.PNG">
 
 
