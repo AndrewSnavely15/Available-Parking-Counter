@@ -3,3 +3,6 @@ Random generation of parking spaces. Green spaces indicate open spaces and red s
 
 *PLEASE NOTE*
 Display of spaces are resisted to under a 100 spaces because how the code is created. Will be fixed.
+
+# Output
+First screenshot shows what the terminal shows for spaces: <br/>
